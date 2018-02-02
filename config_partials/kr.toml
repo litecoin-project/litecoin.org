@@ -7,21 +7,21 @@
 
   # Hero section
   [Languages.en.hero]
-    title = "The Cryptocurrency For Payments"
-    subtitle = "Based on Blockchain Technology"
+    title = "화폐거래를 위한 최고의 암호화폐"
+    subtitle = "블록체인 기술을 기반으로 함"
 
   # Navigation
   [Languages.en.navigation]
     brand = "라이트코인"
     download = "다운로드"
-    about = "About"
-    team = "Team"
-    contact = "Contact"
+    about = "라이트코인에 대해서"
+    team = "팀"
+    contact = "문의처"
 
     # postpended links
     [[menu.postpend]]
       url = "https://litecointalk.io/"
-      name = "Forum"
+      name = "포럼"
       weight = 10
 
 
@@ -60,8 +60,8 @@
 
       [[Languages.en.about.row.list]]
         icon = "fa-money"
-        title = "체굴 보상"
-        description = "체굴자들은 현재 블록 한 개에 25개의 라이트코인을 보상받고 있고, 이는 4년 마다 대략 절반이 된다(4년에 840,000 블록). <br />라이트코인 네트워크는 8천4백만개의 라이트코인을 생산할 수 있도록 계획되어 있고, 이는 비트코인의 통화단위의 4배 많은 값이다."
+        title = "채굴 보상"
+        description = "채굴자들은 현재 블록 한 개에 25개의 라이트코인을 보상받고 있고, 이는 4년 마다 대략 절반이 된다(4년에 840,000 블록). <br />라이트코인 네트워크는 8천4백만개의 라이트코인을 생산할 수 있도록 계획되어 있고, 이는 비트코인의 통화단위의 4배 많은 값이다."
 
   # download section
   [Languages.en.download]
@@ -83,8 +83,8 @@
   # Contact section
   [Languages.en.contact]
     enable = true
-    title = "Contact us"
-    subtitle  = '당신은 라이트코인 프로젝트 개발팀과 이곳에서 연락할 수 있다. <a href="mailto:contact@litecoin.org">contact@litecoin.org</a>'
+    title = "문의처"
+    subtitle  = '라이트코인 프로젝트 개발팀과 이곳에서 연락할 수 있다. <a href="mailto:contact@litecoin.org">contact@litecoin.org</a>'
 
 
   # Footer section
