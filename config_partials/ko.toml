@@ -1,7 +1,7 @@
 # ENGLISH _____________________________
   [Languages.en]
     lang = "한국어"
-    LanguageCode = "en-us"
+    LanguageCode = "ko"
     title = "라이트코인 - 오픈소스 P2P 디지털 화폐"
     weight = 7
 
@@ -39,8 +39,8 @@
 
       [[Languages.en.about.row.list]]
         icon = "fa-laptop"
-        title = "Resources"
-        description = 'Find general information as well as a list of services and exchanges that support Litecoin at the <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Up-to-date network statistics can be found at <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Source code for Litecoin Core and related projects are available on <a href="https://github.com/litecoin-project">GitHub</a>.'
+        title = "자원"
+        description = '라이트코인과 관련된 정보, 서비스, 거래소를 이 사이트에서 찾을 수 있음 <a href="http://litecoin.info">Litecoin Wiki</a>. <br> 최신 네트워크 통계를 찾을 수 있음 <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> 라이트코인 코어 및 관련 프로젝트 소스코드가 있음 <a href="https://github.com/litecoin-project">GitHub</a>.'
 
       [[Languages.en.about.row.list]]
         icon = "fa-heart"
