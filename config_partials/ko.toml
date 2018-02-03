@@ -35,7 +35,7 @@
       [[Languages.en.about.row.list]]
         icon = "fa-group"
         title = "커뮤니티"
-        description =  '<p class="text-no-margin text-left text-muted">계속 성장하고 있는 라이트코인 커뮤니티에서 관련 정보를 찾을 수 있습니다.</p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoin Forums</a></li><li><a href="https://web.telegram.org/#/im?p=@Litecoin">Litecoin Telegram</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Search for Users on Twitter</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> network channels <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (for general users) and <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (for developers).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">계속 성장하고 있는 라이트코인 커뮤니티에서 관련 정보를 찾을 수 있습니다.</p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoin Forums</a></li><li><a href="https://web.telegram.org/#/im?p=@Litecoin">Litecoin Telegram</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Twitter 에서 사용자 찾기</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> network channels <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (일반 사용자용 채널) and <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (개발자용 채널).</li> </ul>'
 
       [[Languages.en.about.row.list]]
         icon = "fa-laptop"
@@ -56,7 +56,7 @@
       [[Languages.en.about.row.list]]
         icon = "fa-lock"
         title = "지갑 암호화"
-        description = "암호화된 지갑은 당신의 지갑을 안전하게 지켜주며, 거래내역과 잔고를 확인 할 수 있습니다. 라이트코인을 전송하기 전에는 반드시 당신의 비밀번호를 입력하는 것이 필요합니다. <br /> 이는 라이트코인을 훔치는 바이러스와 악성코드로 부터 지갑을 보호해줄 뿐만 아니라 금액을 이체하기 전에 안전하게 확인 할 수 있습니다."
+        description = "암호화된 지갑은 당신의 지갑을 안전하게 지켜주며, 거래내역과 잔고를 확인 할 수 있습니다. 라이트코인을 전송하기 전에는 반드시 당신의 비밀번호를 입력하는 것이 필요합니다. <br /> 이는 라이트코인을 훔치려는 바이러스와 악성코드로 부터 지갑을 보호해줄 뿐만 아니라 금액을 이체하기 전에 안전하게 확인 할 수 있습니다."
 
       [[Languages.en.about.row.list]]
         icon = "fa-money"
