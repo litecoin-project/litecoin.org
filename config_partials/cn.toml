@@ -91,4 +91,4 @@ title = "莱特币 - 开源的P2P数字货币"
 # Footer section
 [Languages.cn.footer]
   enable = true
-  copyright = "Copyright &copy; 2011-2016 莱特币项目版权归开发者所有，并保留所有权利。"
+  copyright = "Copyright &copy; 2011-2018 莱特币项目版权归开发者所有，并保留所有权利。"
