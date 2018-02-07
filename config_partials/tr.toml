@@ -93,4 +93,4 @@
   # Footer section
   [Languages.tr.footer]
     enable = true
-    copyright = 'Copyright &copy; 2011-2016 Litecoin Project. Tüm hakları saklıdır.'
+    copyright = 'Copyright &copy; 2011-2018 Litecoin Project. Tüm hakları saklıdır.'
