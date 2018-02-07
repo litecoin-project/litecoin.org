@@ -89,4 +89,4 @@
   # Footer section
   [Languages.es.footer]
     enable = true
-    copyright = "Copyright &copy; 2011-2016 Litecoin Project. Todos los derechos reservados."
+    copyright = "Copyright &copy; 2011-2018 Litecoin Project. Todos los derechos reservados."
