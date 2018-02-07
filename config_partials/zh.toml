@@ -89,4 +89,4 @@
   # Footer section
   [Languages.zh.footer]
     enable = true
-    copyright = '&copy; 2011-2016 Litecoin Project 版權所有，保留所有權利。'
+    copyright = '&copy; 2011-2018 Litecoin Project 版權所有，保留所有權利。'
