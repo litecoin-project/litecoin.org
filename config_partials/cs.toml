@@ -90,4 +90,4 @@
   # Footer section
   [Languages.cs.footer]
     enable = true
-    copyright = "Copyright &copy; 2011-2016 Litecoin Project. Všechna práva vyhrazena."
+    copyright = "Copyright &copy; 2011-2018 Litecoin Project. Všechna práva vyhrazena."
