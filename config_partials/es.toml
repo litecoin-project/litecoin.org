@@ -8,20 +8,20 @@
   # Hero section
   [Languages.es.hero]
     # title = "The Cryptocurrency For Payments"
-    # subtitle = "Based on Blockchain Technology"
+    # subtitle = "Basada en la Tecnología Blockchain"
 
   # Navigation
   [Languages.es.navigation]
     brand = "litecoin"
-    download = "DESCARGAR"
-    about = "About"
-    team = "Team"
-    contact = "Contact"
+    download = "Descargar"
+    about = "Sobre nosotros"
+    team = "Equipo"
+    contact = "Contactar"
 
     # postpended links
     [[menu.postpend]]
       url = "https://litecointalk.io/"
-      name = "Forum"
+      name = "Foro"
       weight = 10
 
 
@@ -67,7 +67,7 @@
   [Languages.es.download]
     enable = true
     gpg = "GPG Signatures"
-    download = "DESCARGAR"
+    download = "Descargar"
     source = "Código Fuente"
     releasenotes = "Notas de la versión"
     upgradenotes = "Notas de actualización"
@@ -83,8 +83,8 @@
   # Contact section
   [Languages.es.contact]
     enable = true
-    # title = "Contact us"
-    subtitle  = "Usted puede contactarse con el equipo de desarrollo Litecoin en: <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
+    # title = "Contacto"
+    subtitle  = "Usted puede contactar con el equipo de desarrollo Litecoin en: <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
 
   # Footer section
   [Languages.es.footer]
