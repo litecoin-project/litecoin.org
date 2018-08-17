@@ -40,7 +40,7 @@
       [[Languages.vi.about.row.list]]
         icon = "fa-laptop"
         title = "Tài nguyên"
-        description = 'Tìm kiếm thông tin chung cũng như danh sách các dịch vụ và sàn giao dịch hỗ trợ Litecoin tại địa chỉ <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Cập nhật số liệu thống kê mạng có thể tìm thấy tại địa chỉ <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Mã nguồn cho Litecoin Core và các dự án liên quan có sẵn tại địa chỉ <a href="https://github.com/litecoin-project">GitHub</a>.'
+        description = 'Tìm kiếm thông tin chung cũng như danh sách các dịch vụ và sàn giao dịch hỗ trợ Litecoin tại địa chỉ <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Cập nhật số liệu thống kê mạng có thể tìm thấy tại địa chỉ <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br> Mã nguồn cho Litecoin Core và các dự án liên quan có sẵn tại địa chỉ <a href="https://github.com/litecoin-project">GitHub</a>.'
 
       [[Languages.vi.about.row.list]]
         icon = "fa-heart"

@@ -40,7 +40,7 @@
       [[Languages.ru.about.row.list]]
         icon = "fa-laptop"
         title = "Ресурсы"
-        description = 'Общую информацию, перечень сайтов и бирж, которые поддерживают Litecoin, можно найти на <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Статистика сети регулярно обновляется на <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Исходный код Litecoin и связанные с ним проекты доступны на <a href="https://github.com/litecoin-project">GitHub.com/litecoin-project</a>.'
+        description = 'Общую информацию, перечень сайтов и бирж, которые поддерживают Litecoin, можно найти на <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Статистика сети регулярно обновляется на <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br> Исходный код Litecoin и связанные с ним проекты доступны на <a href="https://github.com/litecoin-project">GitHub.com/litecoin-project</a>.'
 
       [[Languages.ru.about.row.list]]
         icon = "fa-heart"

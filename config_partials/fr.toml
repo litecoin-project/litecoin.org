@@ -46,7 +46,7 @@
     [[Languages.fr.about.row.list]]
       icon = "fa-laptop"
       title = "Ressources"
-      description = 'Des informations générales ainsi qu&#39;une liste des sites et des bourses (marchés) acceptant Litecoin sont disponibles dans le site collaboratif <a href="http://litecoin.info">(wiki) de Litecoin</a>. <br> Des statistiques actualisées du réseau Litecoin sont affichées à <a href="http://ltc.block-explorer.com/charts">LiteCoin Block Explorer Charts</a>. <br> Le code source de Litecoin et des projets similaires sont disponibles sur <a href="https://github.com/litecoin-project">GitHub</a>.'
+      description = 'Des informations générales ainsi qu&#39;une liste des sites et des bourses (marchés) acceptant Litecoin sont disponibles dans le site collaboratif <a href="http://litecoin.info">(wiki) de Litecoin</a>. <br> Des statistiques actualisées du réseau Litecoin sont affichées à <a href="https://chainz.cryptoid.info/ltc/">LiteCoin Block Explorer Charts</a>. <br> Le code source de Litecoin et des projets similaires sont disponibles sur <a href="https://github.com/litecoin-project">GitHub</a>.'
 
     [[Languages.fr.about.row.list]]
       icon = "fa-heart"

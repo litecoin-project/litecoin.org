@@ -40,7 +40,7 @@
       [[Languages.sl.about.row.list]]
         icon = "fa-laptop"
         title = "Viri"
-        description = 'Poišči splošne informacije kot tudi vse servise in menjalnice, ki podpirajo Litecoin na <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Najnovejše statistike omrežja so dostopne na <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Izvorna koda za Litecoin Core in sorodni projekti so dostopni na <a href="https://github.com/litecoin-project">GitHub</a>.'
+        description = 'Poišči splošne informacije kot tudi vse servise in menjalnice, ki podpirajo Litecoin na <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Najnovejše statistike omrežja so dostopne na <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br> Izvorna koda za Litecoin Core in sorodni projekti so dostopni na <a href="https://github.com/litecoin-project">GitHub</a>.'
 
       [[Languages.sl.about.row.list]]
         icon = "fa-heart"

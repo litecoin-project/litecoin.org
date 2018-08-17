@@ -40,7 +40,7 @@
       [[Languages.et.about.row.list]]
         icon = "fa-laptop"
         title = "Ressursid"
-        description = 'Find general information as well as a list of services and exchanges that support Litecoin at the <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Up-to-date network statistics can be found at <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Source code for Litecoin Core and related projects are available on <a href="https://github.com/litecoin-project">GitHub</a>.'
+        description = 'Find general information as well as a list of services and exchanges that support Litecoin at the <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Up-to-date network statistics can be found at <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br> Source code for Litecoin Core and related projects are available on <a href="https://github.com/litecoin-project">GitHub</a>.'
 
       [[Languages.et.about.row.list]]
         icon = "fa-heart"

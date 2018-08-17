@@ -40,7 +40,7 @@
       [[Languages.da.about.row.list]]
         icon = "fa-laptop"
         title = "Ressourcer"
-        description = 'Find generel information samt en liste over tjenester og udvekslinger, der understøtter Litecoin på <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Up-to-date netværk statistikker kan findes på <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Kildekode til Litecoin Core og relaterede projekter er tilgængelige på <a href="https://github.com/litecoin-project">GitHub</a>.'
+        description = 'Find generel information samt en liste over tjenester og udvekslinger, der understøtter Litecoin på <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Up-to-date netværk statistikker kan findes på <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br> Kildekode til Litecoin Core og relaterede projekter er tilgængelige på <a href="https://github.com/litecoin-project">GitHub</a>.'
 
       [[Languages.da.about.row.list]]
         icon = "fa-heart"

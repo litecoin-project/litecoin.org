@@ -40,7 +40,7 @@
       [[Languages.cs.about.row.list]]
         icon = "fa-laptop"
         title = "Zdroje"
-        description = 'Základní informace stejně jako seznam služeb a směnáren, které podporují Litecoin můžete najít na <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Aktuální statistiky sítě jsou na stránce <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Zdrojový kód pro Litecoin Core a odvozené projekty je dostupný na <a href="https://github.com/litecoin-project">GitHubu</a>.'
+        description = 'Základní informace stejně jako seznam služeb a směnáren, které podporují Litecoin můžete najít na <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Aktuální statistiky sítě jsou na stránce <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br> Zdrojový kód pro Litecoin Core a odvozené projekty je dostupný na <a href="https://github.com/litecoin-project">GitHubu</a>.'
 
       [[Languages.cs.about.row.list]]
         icon = "fa-heart"

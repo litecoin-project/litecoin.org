@@ -40,7 +40,7 @@
       [[Languages.el.about.row.list]]
         icon = "fa-laptop"
         title = "Πηγές"
-        description = 'Βρείτε γενικές πληροφορίες, καθώς επίσης και μία λίστα υπηρεσιών και ανταλλακτηρίων που υποστηρίζουν το Litecoin στο <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Ενημερωμένα στατιστικά δικτύου μπορούν να βρεθούν στο <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Ο πηγαίος κώδικας για το Litecoin Core και σχετικά projects είναι διαθέσιμος στο <a href="https://github.com/litecoin-project">GitHub</a>.'
+        description = 'Βρείτε γενικές πληροφορίες, καθώς επίσης και μία λίστα υπηρεσιών και ανταλλακτηρίων που υποστηρίζουν το Litecoin στο <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Ενημερωμένα στατιστικά δικτύου μπορούν να βρεθούν στο <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br> Ο πηγαίος κώδικας για το Litecoin Core και σχετικά projects είναι διαθέσιμος στο <a href="https://github.com/litecoin-project">GitHub</a>.'
 
       [[Languages.el.about.row.list]]
         icon = "fa-heart"

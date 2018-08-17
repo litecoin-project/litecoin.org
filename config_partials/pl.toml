@@ -40,7 +40,7 @@
       [[Languages.pl.about.row.list]]
         icon = "fa-laptop"
         title = "Zasoby"
-        description = 'Informacje ogólne, listę&nbsp;usług oraz giełd, które obsługują i wspierają Litecoina znajdziesz na <a href="http://litecoin.info">Wiki Litecoina </a>. <br>Bieżące statystyki sieci są dostępne na <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br>Kod źródłowy Litecoin Core i powiązanych projektów jest dostępny na <a href="https://github.com/litecoin-project">GitHubie</a>.'
+        description = 'Informacje ogólne, listę&nbsp;usług oraz giełd, które obsługują i wspierają Litecoina znajdziesz na <a href="http://litecoin.info">Wiki Litecoina </a>. <br>Bieżące statystyki sieci są dostępne na <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br>Kod źródłowy Litecoin Core i powiązanych projektów jest dostępny na <a href="https://github.com/litecoin-project">GitHubie</a>.'
 
       [[Languages.pl.about.row.list]]
         icon = "fa-heart"

@@ -40,7 +40,7 @@
       [[Languages.fi.about.row.list]]
         icon = "fa-laptop"
         title = "Resurssit"
-        description = 'Yleistä tietoa, palveluja ja vaihtopaikkoja löytyy <a href="http://litecoin.info">Litecoin Wiki</a>:sta. <br> Päivitetyt verkkotilastot löytyy <a href="http://ltc.block-explorer.com/charts">Litecoin Block Explorer Charts</a>. <br> Litecoin Core lähdekoodi ja muut projektit löytyy <a href="https://github.com/litecoin-project">GitHub</a>:sta.'
+        description = 'Yleistä tietoa, palveluja ja vaihtopaikkoja löytyy <a href="http://litecoin.info">Litecoin Wiki</a>:sta. <br> Päivitetyt verkkotilastot löytyy <a href="https://chainz.cryptoid.info/ltc/">Litecoin Block Explorer Charts</a>. <br> Litecoin Core lähdekoodi ja muut projektit löytyy <a href="https://github.com/litecoin-project">GitHub</a>:sta.'
 
       [[Languages.fi.about.row.list]]
         icon = "fa-heart"
