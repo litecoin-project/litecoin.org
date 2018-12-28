@@ -7,15 +7,15 @@
 
   # Hero section
   [Languages.it.hero]
-    # title = "The Cryptocurrency For Payments"
-    # subtitle = "Based on Blockchain Technology"
+    title = "Valuta digitale per pagamenti"
+    subtitle = "basati sulla tecnologia Blockchain"
 
   # Navigation
   [Languages.it.navigation]
     brand = "litecoin"
     download = "SCARICARE"
     about = "About"
-    team = "Team"
+    team = "Squadra"
     contact = "Contact"
 
     # postpended links
@@ -80,7 +80,7 @@
   # Contact section
   [Languages.it.contact]
     enable = true
-    # title = "Contact us"
+    title = "Contattaci"
     subtitle  = "Potete contattare il team degli sviluppatori di Litecoin all'indirizzo di posta elettronica <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
 
   # Footer section
