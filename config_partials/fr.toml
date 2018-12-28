@@ -17,12 +17,6 @@
   about = "About"
   team = "Team"
   contact = "Contact"
-  
-  # prepended links
-  #[[menu.prepend]]
-  #  url = "http://gohugo.io"
-  #  name = "Hugo"
-  #  weight = 10
 
   # postpended links
   [[Languages.fr.menu.postpend]]
