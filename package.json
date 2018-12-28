@@ -22,7 +22,7 @@
     "gulp-autoprefixer": "^3.1.1",
     "gulp-clean-css": "^2.0.13",
     "gulp-concat": "^2.6.0",
-    "gulp-sass": "^2.3.2"
+    "gulp-sass": "^3.0.0"
   },
   "dependencies": {
     "jquery.browser": "^0.1.0"
