@@ -19,7 +19,7 @@
     contact = "문의처"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.ko.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "포럼"
       weight = 10

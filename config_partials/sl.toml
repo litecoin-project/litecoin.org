@@ -19,7 +19,7 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.sl.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10

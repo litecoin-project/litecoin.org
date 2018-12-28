@@ -25,7 +25,7 @@
   #  weight = 10
 
   # postpended links
-  [[menu.postpend]]
+  [[Languages.fr.menu.postpend]]
     url = "https://litecointalk.io/"
     name = "Forum"
     weight = 10
