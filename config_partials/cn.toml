@@ -9,6 +9,7 @@
 [Languages.cn.hero]
   title = "全球去中心化数字货币"
   subtitle = "基于区块链技术"
+  otherversions = "其他版本"
 
 # Navigation
 [Languages.cn.navigation]

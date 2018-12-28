@@ -9,6 +9,7 @@
   [Languages.ru.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Другие версии"
 
   # Navigation
   [Languages.ru.navigation]

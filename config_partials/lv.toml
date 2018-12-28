@@ -9,6 +9,7 @@
   [Languages.lv.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Citas versijas"
 
   # Navigation
   [Languages.lv.navigation]

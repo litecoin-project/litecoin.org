@@ -9,6 +9,7 @@
   [Languages.da.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Andre versioner"
 
   # Navigation
   [Languages.da.navigation]

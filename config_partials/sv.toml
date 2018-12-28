@@ -9,6 +9,7 @@
   [Languages.sv.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Andra versioner"
 
   # Navigation
   [Languages.sv.navigation]

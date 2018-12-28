@@ -9,6 +9,7 @@
   [Languages.vi.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Các phiên bản khác"
 
   # Navigation
   [Languages.vi.navigation]

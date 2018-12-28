@@ -9,6 +9,7 @@
   [Languages.it.hero]
     title = "Valuta digitale per pagamenti"
     subtitle = "basati sulla tecnologia Blockchain"
+    otherversions = "Altre versioni"
 
   # Navigation
   [Languages.it.navigation]

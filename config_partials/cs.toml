@@ -9,6 +9,7 @@
   [Languages.cs.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Jiné verze"
 
   # Navigation
   [Languages.cs.navigation]

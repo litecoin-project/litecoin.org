@@ -9,6 +9,7 @@
   [Languages.ja.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "他のバージョン"
 
   # Navigation
   [Languages.ja.navigation]

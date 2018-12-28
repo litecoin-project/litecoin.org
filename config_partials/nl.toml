@@ -9,6 +9,7 @@
   [Languages.nl.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Andere versies"
 
   # Navigation
   [Languages.nl.navigation]
