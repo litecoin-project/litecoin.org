@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.zh.about]
     enable = true
@@ -77,7 +76,6 @@
     linux = "供GNU/Linux使用"
     android = "Litecoin版本的Android"
     electrum = "Electrum Litecoin"
-
 
   # Contact section
   [Languages.zh.contact]

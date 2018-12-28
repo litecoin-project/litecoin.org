@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.cs.about]
     enable = true
@@ -78,13 +77,11 @@
     android = "Litecoin pro Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.cs.contact]
     enable = true
     # title = "Contact us"
     subtitle  = "Můžeš kontaktovat vývojářský tým projektu Litecoin na <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
-
 
   # Footer section
   [Languages.cs.footer]

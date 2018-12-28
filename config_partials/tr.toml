@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.tr.about]
     enable = true
@@ -37,14 +36,10 @@
         title = "Topluluk"
         description =  '<p class="text-no-margin text-left text-muted">Sayısı her geçen gün artan Litecoin topluluklarından destek alabilirsiniz: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Litecoin Forum</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Twitter&#39;da ara</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> IRC kanalları <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (normal kullanıcılar için), <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (geliştiriciler için).</li> </ul>'
 
-
-
       [[Languages.tr.about.row.list]]
         icon = "fa-laptop"
         title = "Kaynaklar"
         description = 'Genel bilgilere, Litecoin&#39;i destekleyen servis ve borsaların listesine <a href="http://litecoin.info">Litecoin Wiki</a>&#39;den ulaşabilirsiniz. <br> Güncel ağ istatistikleri <a href="http://ltc.block-explorer.com/charts">burada</a> yer almaktadır. Litecoin COre ve ilgili projelerin kaynak kodu <a href="https://github.com/litecoin-project">GitHub</a>&#39;da mevcuttur.'
-
-
 
       [[Languages.tr.about.row.list]]
         icon = "fa-heart"
@@ -81,7 +76,6 @@
     linux = "için Linux"
     android = "Litecoin için Android"
     electrum = "Electrum Litecoin"
-
 
   # Contact section
   [Languages.tr.contact]

@@ -17,7 +17,7 @@
   about = "About"
   team = "Team"
   contact = "Contact"
-
+  
   # prepended links
   #[[menu.prepend]]
   #  url = "http://gohugo.io"
@@ -29,7 +29,6 @@
     url = "https://litecointalk.io/"
     name = "Forum"
     weight = 10
-
 
 # About section
 [Languages.fr.about]
@@ -84,13 +83,11 @@
   android = "Litecoin sur Android"
   electrum = "Electrum Litecoin"
 
-
 # Contact section
 [Languages.fr.contact]
   enable = true
   # title = "Contact us"
   subtitle  = "Vous pouvez contacter l'équipe de développement de Litecoin à <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
-
 
 # Footer section
 [Languages.fr.footer]

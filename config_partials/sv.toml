@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.sv.about]
     enable = true
@@ -77,7 +76,6 @@
     linux = "för Linux"
     android = "Litecoin för Android"
     electrum = "Electrum Litecoin"
-
 
   # Contact section
   [Languages.sv.contact]

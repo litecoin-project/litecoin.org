@@ -24,7 +24,6 @@
       name = "Foro"
       weight = 10
 
-
   # About section
   [Languages.es.about]
     enable = true
@@ -77,7 +76,6 @@
     linux = "para Linux"
     android = "Litecoin para Android"
     electrum = "Electrum Litecoin"
-
 
   # Contact section
   [Languages.es.contact]

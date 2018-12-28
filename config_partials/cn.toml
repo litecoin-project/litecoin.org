@@ -1,10 +1,9 @@
 # CHINESE _____________________________
-
 [Languages.cn]
-languageCode = "zh-cn"
-lang = "中文"
-title = "莱特币 - 开源的P2P数字货币"
-  weight = 2
+ languageCode = "zh-cn"
+ lang = "中文"
+ title = "莱特币 - 开源的P2P数字货币"
+ weight = 2
 
 # Hero section
 [Languages.cn.hero]
@@ -23,7 +22,6 @@ title = "莱特币 - 开源的P2P数字货币"
     url = "https://litecointalk.io/"
     name = "论坛"
     weight = 10
-
 
 # About section
 [Languages.cn.about]
@@ -79,13 +77,11 @@ title = "莱特币 - 开源的P2P数字货币"
   android = "莱特币安卓版"
   electrum = "Electrum Litecoin"
 
-
 # Contact section
 [Languages.cn.contact]
   enable = true
   title = "联系我们"
   subtitle  = "您可以通过邮件 <a href='mailto:contact@litecoin.org'>contact@litecoin.org</a>联系莱特币的开发维护团队。"
-
 
 # Footer section
 [Languages.cn.footer]

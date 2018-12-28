@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.da.about]
     enable = true
@@ -78,13 +77,11 @@
     android = "Litecoin for Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.da.contact]
     enable = true
     # title = "Contact us"
     subtitle  = "Du kan kontakte Litecoins projektudvikling team på <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
-
 
   # Footer section
   [Languages.da.footer]

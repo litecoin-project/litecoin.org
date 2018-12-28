@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.vi.about]
     enable = true
@@ -77,7 +76,6 @@
     linux = "dành cho Linux"
     android = "Litecoin cho Android"
     electrum = "Electrum Litecoin"
-
 
   # Contact section
   [Languages.vi.contact]

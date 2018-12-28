@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.ru.about]
     enable = true
@@ -77,7 +76,6 @@
     linux = "для Linux"
     android = "Litecoin для Android"
     electrum = "Electrum Litecoin"
-
 
   # Contact section
   [Languages.ru.contact]

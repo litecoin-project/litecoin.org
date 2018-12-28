@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.et.about]
     enable = true
@@ -77,7 +76,6 @@
     linux = "Linux"
     android = "Litecoin Android'ile"
     electrum = "Electrum Litecoin"
-
 
   # Contact section
   [Languages.et.contact]

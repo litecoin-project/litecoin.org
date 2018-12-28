@@ -24,7 +24,6 @@
       name = "Forum"
       weight = 10
 
-
   # About section
   [Languages.nl.about]
     enable = true
@@ -77,7 +76,6 @@
     linux = "voor Linux"
     android = "Litecoin voor Android"
     electrum = "Electrum Litecoin"
-
 
   # Contact section
   [Languages.nl.contact]

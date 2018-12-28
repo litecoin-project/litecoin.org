@@ -24,7 +24,6 @@
       name = "포럼"
       weight = 10
 
-
   # About section
   [Languages.ko.about]
     enable = true
@@ -78,13 +77,11 @@
     android = "Android 용 라이트코인"
     electrum = "Electrum 라이트코인"
 
-
   # Contact section
   [Languages.ko.contact]
     enable = true
     title = "문의처"
     subtitle  = '라이트코인 프로젝트 개발팀과 연락 할 수 있는 이메일 주소 입니다. <a href="mailto:contact@litecoin.org">contact@litecoin.org</a>'
-
 
   # Footer section
   [Languages.ko.footer]
