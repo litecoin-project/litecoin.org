@@ -7,17 +7,17 @@
 
   # Hero section
   [Languages.tr.hero]
-    # title = "The Cryptocurrency For Payments"
-    # subtitle = "Based on Blockchain Technology"
-   otherversions = "Diğer sürümleri"
+   title = "Ödemeler İçin Kripto Para"
+   subtitle = "Blockchain Teknolojisine Dayalı"
+   otherversions = "Diğer sürümler"
 
   # Navigation
   [Languages.tr.navigation]
     brand = "litecoin"
-    download = "İNDİR"
-    about = "About"
-    team = "Team"
-    contact = "Contact"
+    download = "İndir"
+    about = "Hakkında"
+    team = "Ekip"
+    contact = "İletişim"
 
     # postpended links
     [[Languages.tr.menu.postpend]]
@@ -27,25 +27,25 @@
 
     [[Languages.tr.menu.postpend]]
       url = "https://litecoin-foundation.org/shop"
-      name = "Foundation"
+      name = "Kuruluş"
       weight = 10
 
   # About section
   [Languages.tr.about]
     enable = true
     title = "Litecoin nedir?"
-    subtitle = "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin."
+    subtitle = "Litecoin, dünyadaki herhangi birine anında, sıfıra yakın maliyetli ödeme sağlayan eşler arası bir internet para birimidir. Litecoin tamamen merkezi olmayan, açık kaynaklı bir küresel ödeme ağıdır. Matematik ağı korur ve bireylere kendi mali kaynaklarını kontrol etmelerini sağlar. Litecoin, önde gelen matematik temelli para birimlerine göre daha hızlı işlem onay süreleri ve gelişmiş depolama verimliliği sunar. Önemli endüstri desteği, ticaret hacmi ve likidite ile Litecoin, Bitcoin'i tamamlayan kanıtlanmış bir ticaret ortamıdır."
 
     [[Languages.tr.about.row]]
       [[Languages.tr.about.row.list]]
         icon = "fa-group"
         title = "Topluluk"
-        description =  '<p class="text-no-margin text-left text-muted">Sayısı her geçen gün artan Litecoin topluluklarından destek alabilirsiniz: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoin Forum</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Twitter&#39;da ara</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> IRC kanalları <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (normal kullanıcılar için), <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (geliştiriciler için).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Sayısı her geçen gün artan Litecoin topluluklarından destek alabilirsiniz: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Litecoin Forum</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Twitter&#39;da ara</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> IRC kanalları <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (normal kullanıcılar için), <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (geliştiriciler için).</li> </ul>'
 
       [[Languages.tr.about.row.list]]
         icon = "fa-laptop"
         title = "Kaynaklar"
-        description = 'Genel bilgilere, Litecoin&#39;i destekleyen servis ve borsaların listesine <a href="http://litecoin.info">Litecoin Wiki</a>&#39;den ulaşabilirsiniz. <br> Güncel ağ istatistikleri <a href="https://bitinfocharts.com/litecoin">burada</a> yer almaktadır. Litecoin COre ve ilgili projelerin kaynak kodu <a href="https://github.com/litecoin-project">GitHub</a>&#39;da mevcuttur.'
+        description = 'Genel bilgilere, Litecoin&#39;i destekleyen servis ve borsaların listesine <a href="http://litecoin.info">Litecoin Wiki</a>&#39;den ulaşabilirsiniz. <br> Güncel ağ istatistikleri <a href="http://ltc.block-explorer.com/charts">burada</a> yer almaktadır. Litecoin Core ve ilgili projelerin kaynak kodu <a href="https://github.com/litecoin-project">GitHub</a>&#39;da mevcuttur.'
 
       [[Languages.tr.about.row.list]]
         icon = "fa-heart"
@@ -61,7 +61,7 @@
       [[Languages.tr.about.row.list]]
         icon = "fa-lock"
         title = "Cüzdan Şifreleme"
-        description = "Wallet encryption allows you to secure your wallet, so that you can view transactions and your account balance, but are required to enter your password before spending litecoins. <br />This provides protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments."
+        description = "Cüzdan şifreleme, cüzdanınızı korumanızı sağlar, böylece işlemleri ve hesap bakiyenizi görüntüleyebilirsiniz, ancak litecoin harcamadan önce şifrenizi girmeniz gerekir. <br />Bu, cüzdanınızı çalan virüs ve trojanlara karşı koruma sağlar, bunun yanı sıra ödemeleri göndermeden önce bir sağlık kontrolü yapar."
 
       [[Languages.tr.about.row.list]]
         icon = "fa-money"
@@ -72,24 +72,24 @@
   [Languages.tr.download]
     enable = true
     gpg = "GPG Signatures"
-    download = "İNDİR"
-    source = "KAYNAK"
+    download = "İndir"
+    source = "Kaynak"
     releasenotes = "Sürüm Notları"
     upgradenotes = "Güncelleme Notları"
 
-    windows = "için Windows"
-    mac = "için Mac OS X"
-    linux = "için Linux"
-    android = "Litecoin için Android"
+    windows = "Windows için"
+    mac = "Mac OS X için"
+    linux = "Linux için"
+    android = "Android için Litecoin"
     electrum = "Electrum Litecoin"
 
   # Contact section
   [Languages.tr.contact]
     enable = true
-    # title = "Contact us"
+    title = "Bizimle iletişime geçin"
     subtitle  = 'Litecoin projesi geliştirme ekibine <a href="mailto:contact@litecoin.org">contact@litecoin.org</a> adresinden ulaşabilirsiniz.'
 
   # Footer section
   [Languages.tr.footer]
     enable = true
-    copyright = 'Copyright &copy; 2011-2019 Litecoin Project. Tüm hakları saklıdır.'
+    copyright = 'Telif hakkı &copy; 2011-2019 Litecoin Project. Tüm hakları saklıdır.'
