@@ -45,7 +45,7 @@
       [[Languages.tr.about.row.list]]
         icon = "fa-laptop"
         title = "Kaynaklar"
-        description = 'Genel bilgilere, Litecoin&#39;i destekleyen servis ve borsaların listesine <a href="http://litecoin.info">Litecoin Wiki</a>&#39;den ulaşabilirsiniz. <br> Güncel ağ istatistikleri <a href="http://ltc.block-explorer.com/charts">burada</a> yer almaktadır. Litecoin Core ve ilgili projelerin kaynak kodu <a href="https://github.com/litecoin-project">GitHub</a>&#39;da mevcuttur.'
+        description = 'Genel bilgilere, Litecoin&#39;i destekleyen servis ve borsaların listesine <a href="http://litecoin.info">Litecoin Wiki</a>&#39;den ulaşabilirsiniz. <br> Güncel ağ istatistikleri <a href="https://bitinfocharts.com/litecoin">burada</a> yer almaktadır. Litecoin Core ve ilgili projelerin kaynak kodu <a href="https://github.com/litecoin-project">GitHub</a>&#39;da mevcuttur.'
 
       [[Languages.tr.about.row.list]]
         icon = "fa-heart"
