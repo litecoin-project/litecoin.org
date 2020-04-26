@@ -101,6 +101,10 @@ color:$f-nav;
     &.collapsing {
       overflow: hidden;
     }
+
+    @media(min-width:768px) {
+      flex: 1 1 auto;
+    }
   }
 
 
@@ -155,6 +159,14 @@ color:$f-nav;
       background-color: transparent;
       transition: padding .3s;
       background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
+
+      .container {
+        display: flex;
+      }
+
+      .navbar-header {
+        flex: 1 1 auto;
+      }
 
       .navbar-brand .navbar-logo {
         filter: brightness(150%);
