@@ -1,0 +1,96 @@
+# Bahasa Indonesia _____________________________
+  [Languages.id]
+    lang = "Bahasa Indonesia"
+    LanguageCode = "id"
+    title = "Litecoin - Mata Uang Digital P2P Open Source"
+    weight = 7
+
+  # Hero section
+  [Languages.id.hero]
+    title = "Mata Uang Digital Untuk Pembayaran"
+    subtitle = "Berdasarkan Blockchain Teknologi"
+    otherversions = "Versi Lainnya"
+    buylitecoin = "Beli Litecoin"
+
+  # Navigation
+  [Languages.id.navigation]
+    brand = "litecoin"
+    download = "Unduh"
+    about = "Tentang"
+    team = "Tim"
+    contact = "Kontak"
+
+    # postpended links
+    [[Languages.id.menu.postpend]]
+      url = "https://litecointalk.io/"
+      name = "Forum"
+      weight = 10
+
+    [[Languages.id.menu.postpend]]
+      url = "https://litecoin.net"
+      name = "Lembaga"
+      weight = 10
+
+  # About section
+  [Languages.id.about]
+    enable = true
+    title = "Apa Itu Litecoin?"
+    subtitle = "Litecoin adalah mata uang internet peer-to-peer yang membuat pembayaran menjadi instant, biayanya mendekati nol kepada semua orang di seluruh dunia. Litecoin adalah sebuah jaringan pembayaran global open source yang terdesentralisasi secara penuh tanpa otoritas sentral sama sekali. Matematika membuat jaringannya menjadi aman dan memberikan kuasa terhadap setiap individual untuk mengontrol finansialnya masing - masing. Litecoin menampilkan waktu konfirmasi transaksi lebih cepat dan meningkatkan efisiensi penyimpanan daripada mata uang berbasis matematika terkemuka. Dengan dukungan industri yang substansial, volume perdagangan dan likuiditas, Litecoin adalah bukti perdagangan yang melengkapi Bitcoin."
+
+    [[Languages.id.about.row]]
+      [[Languages.id.about.row.list]]
+        icon = "fa-group"
+        title = "Komunitas"
+        description =  '<p class="text-no-margin text-left text-muted">Temukan dukungan di komunitas Litecoin yang jumlahnya semakin bertambah:</p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Forum Litecoin</a></li><li><a href="https://t.me/Litecoin">Telegram Litecoin</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Cari Pengguna di Twitter</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> kanal/saluran jaringan <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (untuk pengguna umum) dan <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (untuk pengembang).</li> </ul>'
+
+      [[Languages.id.about.row.list]]
+        icon = "fa-laptop"
+        title = "Sumber"
+        description = 'Temukan informasi umum serta daftar layanan dan exchange yang mendukung Litecoin di <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Statistik jaringan terkini dapat ditemukan di <a href="https://chainz.cryptoid.info/ltc/">Grafik Penjelajah Blok Litecoin</a>. <br> Kode sumber untuk Litecoin Core dan proyek yang terkait ada di <a href="https://github.com/litecoin-project">GitHub</a>.'
+
+      [[Languages.id.about.row.list]]
+        icon = "fa-heart"
+        title = "Software Open Source"
+        description = "Litecoin adalah proyek perangkat lunak open source yang di rilis di bawah MIT/X11 yang mana memberikan Anda kekuatan untuk menjalankan, memodifikasi, dan menyalin perangkat lunak ini dan untuk mendistribusikan, sesuai pilihanmu, memodifkasi salinan dari perangkat lunak ini. Perangkat lunaknya dirilis di proses yang transparan yang memperbolehkan untuk verifikasi independen dari binari dan sumber kodenya yang sesuai."
+
+    [[Languages.id.about.row]]
+      [[Languages.id.about.row.list]]
+        icon = "fa-link"
+        title = "Blockchain"
+        description = "Blockchain Litecoin mampu menangani volume transaksi yang lebih tinggi dibandingkan rekannya - Bitcoin. Dikarenakan pembuatan blok yang lebih sering, jaringannya mendukung transaksi lebih banyak tanpa butuh untuk memodifikasi perangkat lunaknya di masa depan. <br />Sebagai hasilnya, merchant mendapatkan waktu konfirmasi lebih cepat, sementara masih memiliki kemampuan menunggu untuk lebih banyak konfirmasi saat menjual item tiket yang lebih besar."
+
+      [[Languages.id.about.row.list]]
+        icon = "fa-lock"
+        title = "Enkripsi Dompet"
+        description = "Enkripsi dompet memungkinkan Anda mengamankan dompet Anda, jadi Anda dapat melihat transaksi dan saldo akun Anda, namun diharuskan untuk memasukkan password Anda sebelum menghabiskan litecoin. <br />Ini menyediakan perlindungan dari virus pencuri dompet dan trojan seperti cek kewarasan sebelum mengirim pembayaran."
+
+      [[Languages.id.about.row.list]]
+        icon = "fa-money"
+        title = "Hadiah Penambangan"
+        description = "Penambang sekarang dihadiahi dengan 12.5 litecoin baru per satu blok, jumlah yang kira - kira dibagi dua setiap 4 tahun (setiap 840,000 blok). <br />Oleh karena itu, Jaringan Litecoin dijadwalkan untuk menghasilkan 84 juta litecoin, yang merupakan unit mata uang 4 kali lebih banyak dari Bitcoin."
+
+  # download section
+  [Languages.id.download]
+    enable = true
+    gpg = "Tanda Tangan GPG"
+    download = "UNDUH"
+    source = "Sumber"
+    releasenotes = "Catatan Rilis"
+    upgradenotes = "Catatan Peningkatan"
+
+    windows = "untuk Windows"
+    mac = "untuk Mac OS X"
+    linux = "untuk Linux"
+    android = "Litewallet untuk Android"
+    electrum = "Electrum Litecoin"
+
+  # Contact section
+  [Languages.id.contact]
+    enable = true
+    title = "Hubungi Kami"
+    subtitle  = 'Anda dapat menghubungi tim pengembangan proyek Litecoin di <a href="mailto:contact@litecoin.org">contact@litecoin.org</a>'
+
+  # Footer section
+  [Languages.id.footer]
+    enable = true
+    copyright = 'Copyright &copy; 2011-2022 Litecoin Project. All rights reserved.'
