@@ -7,3 +7,6 @@ npm-debug.log
 themes/hugo-litecoin-theme/static/css/
 
 config.toml
+
+.hugo_build.lock
+.vs
