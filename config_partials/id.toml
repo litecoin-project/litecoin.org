@@ -81,7 +81,7 @@
     windows = "untuk Windows"
     mac = "untuk Mac OS X"
     linux = "untuk Linux"
-    android = "Litewallet untuk Android"
+    android = "Litewallet (dompet litecoin) untuk Android"
     electrum = "Electrum Litecoin"
 
   # Contact section
