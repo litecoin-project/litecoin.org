@@ -73,7 +73,7 @@
   [Languages.id.download]
     enable = true
     gpg = "Tanda Tangan GPG"
-    download = "UNDUH"
+    download = "Unduh"
     source = "Sumber"
     releasenotes = "Catatan Rilis"
     upgradenotes = "Catatan Peningkatan"
