@@ -67,7 +67,7 @@
       [[Languages.en.about.row.list]]
         icon = "fa-money"
         title = "Mining Reward"
-        description = "Miners are currently awarded with 12.5 new litecoins per block, an amount which gets halved roughly every 4 years (every 840,000 blocks). <br />The Litecoin network is therefore scheduled to produce 84 million litecoins, which is 4 times as many currency units as Bitcoin."
+        description = "Miners are currently awarded with 6.25 new litecoins per block, an amount which gets halved roughly every 4 years (every 840,000 blocks). <br />The Litecoin network is therefore scheduled to produce 84 million litecoins, which is 4 times as many currency units as Bitcoin."
 
   # download section
   [Languages.en.download]

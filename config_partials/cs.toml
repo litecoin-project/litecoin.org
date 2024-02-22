@@ -67,7 +67,7 @@
       [[Languages.cs.about.row.list]]
         icon = "fa-money"
         title = "Odměna za těžení"
-        description = "Těžiči jsou aktuálně odměňováni 12.5 novými litecointy za blok, množstvím které se zmenšuje každé 4 roky(každých 840.000 bloků ) na polovinu. <br />Litecoin síť je navržena na konečnou produkci 84 milionů litecointů, což je čtyřikrát více než bude Bitcointů."
+        description = "Těžiči jsou aktuálně odměňováni 6.25 novými litecointy za blok, množstvím které se zmenšuje každé 4 roky(každých 840.000 bloků ) na polovinu. <br />Litecoin síť je navržena na konečnou produkci 84 milionů litecointů, což je čtyřikrát více než bude Bitcointů."
 
   # download section
   [Languages.cs.download]

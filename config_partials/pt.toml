@@ -67,7 +67,7 @@
       [[Languages.pt.about.row.list]]
         icon = "fa-money"
         title = "Recompensa"
-        description = "Os mineiros inicialmente gerarão 12.5 moedas por bloco. A quantidade de moedas geradas fica reduzida à metade a cada 4 anos (840.000 blocos). <br />Portanto, a rede Litecoin é projetada para produzir cerca de 4 vezes o número de unidades do que Bitcoin, ou cerca de 84 milhões de litecoins."
+        description = "Os mineiros inicialmente gerarão 6.25 moedas por bloco. A quantidade de moedas geradas fica reduzida à metade a cada 4 anos (840.000 blocos). <br />Portanto, a rede Litecoin é projetada para produzir cerca de 4 vezes o número de unidades do que Bitcoin, ou cerca de 84 milhões de litecoins."
 
   # download section
   [Languages.pt.download]

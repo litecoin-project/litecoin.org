@@ -67,7 +67,7 @@
       [[Languages.nl.about.row.list]]
         icon = "fa-money"
         title = "Mining Beloning"
-        description = "Miners worden momenteel beloond met 12.5 nieuwe litecoins per blok, een bedrag dat ruwweg om de vier jaar gehalveerd wordt (elke 840.000 blokken). <br />Het is hierdoor vastgesteld dat het Litecoin netwerk 84 miljoen litecoins zal produceren, wat vier keer zoveel valuta eenheden als Bitcoin is."
+        description = "Miners worden momenteel beloond met 6.25 nieuwe litecoins per blok, een bedrag dat ruwweg om de vier jaar gehalveerd wordt (elke 840.000 blokken). <br />Het is hierdoor vastgesteld dat het Litecoin netwerk 84 miljoen litecoins zal produceren, wat vier keer zoveel valuta eenheden als Bitcoin is."
 
   # download section
   [Languages.nl.download]

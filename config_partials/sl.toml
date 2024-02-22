@@ -67,7 +67,7 @@
       [[Languages.sl.about.row.list]]
         icon = "fa-money"
         title = "Nagrada za rudarjenje"
-        description = "Rudarji dobijo trenutno 12.5 novih litecoinov za vsak blok, znesek, ki se razpolovi približno vsake 4 leta (vsakih 840.000 blokov). <br />Litecoin omrežje bo torej proizvedlo 84 milijonov litecoinov, kar je 4 krat toliko, kolikor bo proizvedeno Bitcoinov."
+        description = "Rudarji dobijo trenutno 6.25 novih litecoinov za vsak blok, znesek, ki se razpolovi približno vsake 4 leta (vsakih 840.000 blokov). <br />Litecoin omrežje bo torej proizvedlo 84 milijonov litecoinov, kar je 4 krat toliko, kolikor bo proizvedeno Bitcoinov."
 
   # download section
   [Languages.sl.download]

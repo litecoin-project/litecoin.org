@@ -67,7 +67,7 @@
       [[Languages.id.about.row.list]]
         icon = "fa-money"
         title = "Hadiah Penambangan"
-        description = "Penambang sekarang dihadiahi dengan 12.5 litecoin baru per satu blok, jumlah yang kira - kira dibagi dua setiap 4 tahun (setiap 840,000 blok). <br />Oleh karena itu, Jaringan Litecoin dijadwalkan untuk menghasilkan 84 juta litecoin, yang merupakan unit mata uang 4 kali lebih banyak dari Bitcoin."
+        description = "Penambang sekarang dihadiahi dengan 6.25 litecoin baru per satu blok, jumlah yang kira - kira dibagi dua setiap 4 tahun (setiap 840,000 blok). <br />Oleh karena itu, Jaringan Litecoin dijadwalkan untuk menghasilkan 84 juta litecoin, yang merupakan unit mata uang 4 kali lebih banyak dari Bitcoin."
 
   # download section
   [Languages.id.download]

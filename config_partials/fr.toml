@@ -67,7 +67,7 @@
     [[Languages.fr.about.row.list]]
       icon = "fa-money"
       title = "Récompense de Minage"
-      description = "Les mineurs sont au départ récompensés de 12.5 coins par bloc. Le nombre de coins générés est divisé par deux tous les 4 ans (840,000 blocs). <br />Le réseau Litecoin devrait donc produire environ 4 fois plus d'unités que Bitcoin, soit environ 84 millions de litecoins."
+      description = "Les mineurs sont au départ récompensés de 6.25 coins par bloc. Le nombre de coins générés est divisé par deux tous les 4 ans (840,000 blocs). <br />Le réseau Litecoin devrait donc produire environ 4 fois plus d'unités que Bitcoin, soit environ 84 millions de litecoins."
 
 # download section
 [Languages.fr.download]

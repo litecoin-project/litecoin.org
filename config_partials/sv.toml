@@ -67,7 +67,7 @@
       [[Languages.sv.about.row.list]]
         icon = "fa-money"
         title = "Mining Reward"
-        description = "Miners belönas för närvarande med 12.5 nya litecoins per block, ett belopp som halveras ungefär var fjärde år (var 840.000 block). <br />Litecoinnätverket är därför planerad att producera 84 miljoner litecoins, vilket är fyra gånger fler än Bitcoins."
+        description = "Miners belönas för närvarande med 6.25 nya litecoins per block, ett belopp som halveras ungefär var fjärde år (var 840.000 block). <br />Litecoinnätverket är därför planerad att producera 84 miljoner litecoins, vilket är fyra gånger fler än Bitcoins."
 
   # download section
   [Languages.sv.download]

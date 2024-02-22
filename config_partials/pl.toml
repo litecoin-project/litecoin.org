@@ -67,7 +67,7 @@
       [[Languages.pl.about.row.list]]
         icon = "fa-money"
         title = "Nagroda za wydobycie"
-        description = "Górnicy są obecnie nagradzani 12.5 litecoinami za blok, a ilość ta zmniejsza się o połowę co 4 lata (co każde 840.000 bloki). <br />Sieć Litecoina jest zaprojektowana aby wyprodukować 84 miliony litecoinów, co oznacza 4 razy więcej niż bitcoinów."
+        description = "Górnicy są obecnie nagradzani 6.25 litecoinami za blok, a ilość ta zmniejsza się o połowę co 4 lata (co każde 840.000 bloki). <br />Sieć Litecoina jest zaprojektowana aby wyprodukować 84 miliony litecoinów, co oznacza 4 razy więcej niż bitcoinów."
 
   # download section
   [Languages.pl.download]

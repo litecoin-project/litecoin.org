@@ -67,7 +67,7 @@
       [[Languages.de.about.row.list]]
         icon = "fa-money"
         title = "Mining-Vergütung"
-        description = "Anfänglich werden pro erwirtschaftetem Block 12.5 litecoins generiert. Die Menge an generierten Litecoins halbiert sich etwa alle 4 Jahre (840.000 Blöcke). <br />Alles in allem werden dadurch viermal mehr Litecoins als Bitcoins generiert (insgesamt 84 Millionen Litecoins)."
+        description = "Anfänglich werden pro erwirtschaftetem Block 6.25 litecoins generiert. Die Menge an generierten Litecoins halbiert sich etwa alle 4 Jahre (840.000 Blöcke). <br />Alles in allem werden dadurch viermal mehr Litecoins als Bitcoins generiert (insgesamt 84 Millionen Litecoins)."
 
   # download section
   [Languages.de.download]

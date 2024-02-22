@@ -67,7 +67,7 @@
       [[Languages.zh.about.row.list]]
         icon = "fa-money"
         title = "獎勵"
-        description = "“礦工們”起初每資料塊可以產出12.5個幣。每4年，生產的貨幣量將減少一半(840000個資料塊)。 <br />因此，Litecoin網路生產的貨幣總量將大約是比特幣的4倍，即8400萬個litecoin。"
+        description = "“礦工們”起初每資料塊可以產出6.25個幣。每4年，生產的貨幣量將減少一半(840000個資料塊)。 <br />因此，Litecoin網路生產的貨幣總量將大約是比特幣的4倍，即8400萬個litecoin。"
 
   # download section
   [Languages.zh.download]

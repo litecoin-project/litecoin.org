@@ -67,7 +67,7 @@
       [[Languages.lv.about.row.list]]
         icon = "fa-money"
         title = "Rakšanas atlīdzība"
-        description = "Racēji pašlaik tiek atalgoti ar 12.5 jauniem litecoin par katru bloku, summa, kas samazinās uz pusi aptuveni ik pēc 4 gadiem (840,000 bloki). <br />Tāpēc Litecoin tīkls ir plānots, lai ražotu 84 miljonus litecoin, kas ir 4 reizes vairāk valūtas vienībās, kā Bitcoin."
+        description = "Racēji pašlaik tiek atalgoti ar 6.25 jauniem litecoin par katru bloku, summa, kas samazinās uz pusi aptuveni ik pēc 4 gadiem (840,000 bloki). <br />Tāpēc Litecoin tīkls ir plānots, lai ražotu 84 miljonus litecoin, kas ir 4 reizes vairāk valūtas vienībās, kā Bitcoin."
 
   # download section
   [Languages.lv.download]

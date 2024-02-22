@@ -67,7 +67,7 @@
       [[Languages.it.about.row.list]]
         icon = "fa-money"
         title = "Ricompensa"
-        description = "I miner all'inizio genereranno 12.5 monete per blocco. La quantità di monete generate viene dimezzata ogni 4 anni (840.000 blocchi). <br />Pertanto, la rete Litecoin è programmata per produrre approssimativamente il quadruplo di unità rispetto a Bitcoin, ovvero circa 84 milioni di litecoin."
+        description = "I miner all'inizio genereranno 6.25 monete per blocco. La quantità di monete generate viene dimezzata ogni 4 anni (840.000 blocchi). <br />Pertanto, la rete Litecoin è programmata per produrre approssimativamente il quadruplo di unità rispetto a Bitcoin, ovvero circa 84 milioni di litecoin."
 
   # download section
   [Languages.it.download]

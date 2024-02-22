@@ -67,7 +67,7 @@
       [[Languages.fi.about.row.list]]
         icon = "fa-money"
         title = "Louhimisen palkkio"
-        description = "Louhijat palkitaan nykyään 12.5 uudella litecoinilla jokaista lohkoa kohden, kunnes palkkio puolittuu joka 4. vuosi (joka 840,000 lohko). <br />Litecoin-verkko on ajoitettu luomaan 84 miljoonaa litecoinia, joka on 4 kertaa enemmän kuin Bitcoinissa."
+        description = "Louhijat palkitaan nykyään 6.25 uudella litecoinilla jokaista lohkoa kohden, kunnes palkkio puolittuu joka 4. vuosi (joka 840,000 lohko). <br />Litecoin-verkko on ajoitettu luomaan 84 miljoonaa litecoinia, joka on 4 kertaa enemmän kuin Bitcoinissa."
 
   # download section
   [Languages.fi.download]

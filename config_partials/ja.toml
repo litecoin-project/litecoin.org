@@ -67,7 +67,7 @@
       [[Languages.ja.about.row.list]]
         icon = "fa-money"
         title = "リワード"
-        description = "採掘者は1ブロック発掘するごとに12.5コインが与えられます。この数は約4年ごとに半減していきます。(840,000ブロックごと) <br />したがって、Litecoinネットワークでは、Bitcoinのおおよそ4倍の量の通貨、約8400万枚のLitecoinが生成される事になります。"
+        description = "採掘者は1ブロック発掘するごとに6.25コインが与えられます。この数は約4年ごとに半減していきます。(840,000ブロックごと) <br />したがって、Litecoinネットワークでは、Bitcoinのおおよそ4倍の量の通貨、約8400万枚のLitecoinが生成される事になります。"
 
   # download section
   [Languages.ja.download]

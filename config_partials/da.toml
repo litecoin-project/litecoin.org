@@ -67,7 +67,7 @@
       [[Languages.da.about.row.list]]
         icon = "fa-money"
         title = "Minedrift belønning"
-        description = "Minearbejdere er i øjeblikket tildelt 12.5 nye litecoins per blok, et beløb, som bliver halveret omkring hver 4. år (hver 840.000 blokke). <br />Litecoin netværk er derfor planlagt til at producere 84 millioner litecoins, hvilket er 4 gange så mange mønter som Bitcoin."
+        description = "Minearbejdere er i øjeblikket tildelt 6.25 nye litecoins per blok, et beløb, som bliver halveret omkring hver 4. år (hver 840.000 blokke). <br />Litecoin netværk er derfor planlagt til at producere 84 millioner litecoins, hvilket er 4 gange så mange mønter som Bitcoin."
 
   # download section
   [Languages.da.download]
