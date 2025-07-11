@@ -7,8 +7,8 @@
 
   # Hero section
   [Languages.es.hero]
-    # title = "The Cryptocurrency For Payments"
-    # subtitle = "Basada en la Tecnología Blockchain"
+    title = "La criptomoneda para pagos"
+    subtitle = "Basada en la tecnología de cadena de bloques"
     otherversions = "Otras versiones"
     buylitecoin = "Compra Litecoin"
 
@@ -28,7 +28,7 @@
 
     [[Languages.es.menu.postpend]]
       url = "https://litecoin.net"
-      name = "Foundation"
+      name = "Fundación"
       weight = 10
 
   # About section
@@ -67,7 +67,7 @@
       [[Languages.es.about.row.list]]
         icon = "fa-money"
         title = "Recompensa"
-        description = "Los mineros inicialmente pueden generar 6.25 monedas por bloque. La cantidad de monedas generadas se ve reducida a la mitad cada 4 años (840,000 bloques). <br />Por lo tanto, la red Litecoin está programada para producir aproximadamente 4 veces más unidades monetarias que Bitcoin, o cerca de 84 millones de litecoins."
+        description = "Los mineros inicialmente pueden generar 6,25 monedas por bloque. La cantidad de monedas generadas se ve reducida a la mitad cada 4 años (840 000 bloques). <br />Por lo tanto, la red Litecoin está programada para producir aproximadamente 4 veces más unidades monetarias que Bitcoin, o cerca de 84 millones de litecoins."
 
   # download section
   [Languages.es.download]
@@ -87,11 +87,11 @@
   # Contact section
   [Languages.es.contact]
     enable = true
-    # title = "Contacto"
+    title = "Contáctenos"
     subtitle  = "Usted puede contactar con el equipo de desarrollo Litecoin en: <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
-    subscription = 'Join the Litecoin Foundation monthly newsletter today. Get updates on development, announcements and exclusive Litecoin news. <br /> Enter your email address into the form below.'
+    subscription = 'Únase hoy al boletín informativo mensual de la Litecoin Foundation. Reciba novedades sobre desarrollo, comunicaciones y noticias exclusivas de Litecoin. <br /> Introduzca su dirección de correo electrónico en el siguienete formulario.'
 
   # Footer section
   [Languages.es.footer]
     enable = true
-    copyright = "Copyright &copy; 2011-2024 Litecoin Project. Todos los derechos reservados."
+    copyright = "Copyright &copy; 2011-2025 Litecoin Project. Todos los derechos reservados."
