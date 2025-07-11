@@ -1,0 +1,97 @@
+# ESPERANTO _____________________________
+  [Languages.eo]
+    lang = "Esperanto"
+    LanguageCode = "eo"
+    title = "Litecoin - Samtavola malfermitkoda cifereca valuto"
+    weight = 7
+
+  # Hero section
+  [Languages.eo.hero]
+    title = "La ĉifrovaluto por pagoj"
+    subtitle = "Bazita sur blokĉena teknologio"
+    otherversions = "Aliaj versioj"
+    buylitecoin = "Aĉeti Litecoin"
+
+  # Navigation
+  [Languages.eo.navigation]
+    brand = "litecoin"
+    download = "Elŝuti"
+    about = "Pri"
+    team = "Teamo"
+    contact = "Kontakto"
+
+    # postpended links
+    [[Languages.eo.menu.postpend]]
+      url = "https://litecointalk.io/"
+      name = "Diskutejo"
+      weight = 10
+
+    [[Languages.eo.menu.postpend]]
+      url = "https://litecoin.net"
+      name = "Fondaĵo"
+      weight = 10
+
+  # About section
+  [Languages.eo.about]
+    enable = true
+    title = "Kio estas Litecoin?"
+    subtitle = "Litecoin estas samtavola Interreta valuto, kiu ebligas tujajn, preskaŭ senpagajn pagojn al ĉiu ajn en la mondo. Litecoin estas malfermitkoda, tutmonda pagreto, kiu estas plene malcentra sen ajna centra aŭtoritato. Matematiko sekurigas la reton kaj ebligas al individuoj kontroli siajn proprajn financojn. Litecoin havas pli rapidajn transakciajn konfirmtempojn kaj plibonigitan efikecon de konservado ol la ĉefa matematike bazita valuto. Havante grandan subtenon de la industrio, komercan aktivecon kaj likvidecon, Litecoin estas pruvita komerca rimedo komplementa al Bitmono."
+
+    [[Languages.eo.about.row]]
+      [[Languages.eo.about.row.list]]
+        icon = "fa-group"
+        title = "Komunumo"
+        description =  '<p class="text-no-margin text-left text-muted">Trovu subtenon en la kreskanta nombro de Litecoin-komunumoj:</p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoin-diskutejoj</a></li><li><a href="https://t.me/Litecoin">Telegramo de Litecoin</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit de Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Serĉu uzantojn en Twitter</a></li> <li>Retaj kanaloj de <a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (por ĝeneralaj uzantoj) kaj <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (por disvolvistoj).</li> </ul>'
+
+      [[Languages.eo.about.row.list]]
+        icon = "fa-laptop"
+        title = "Rimedoj"
+        description = 'Trovu ĝeneralajn informojn kaj liston de servoj kaj interŝanĝejojn, kiuj subtenas Litecoin en la <a href="http://litecoin.info">Vikio de Litecoin</a>. <br> Ĝisdatigitaj statistikoj de la reto troveblas en <a href="https://litecoinspace.org/">Litecoin Block Explorer Charts</a>. <br> La fontkodo de Litecoin Core kaj rilataj projektoj disponeblas en <a href="https://github.com/litecoin-project">GitHub</a>.'
+
+      [[Languages.eo.about.row.list]]
+        icon = "fa-heart"
+        title = "Malfermitkoda programo"
+        description = "Litecoin estas malfermitkoda programprojekto eldonita sub la MIT/X11-permesilo, kiu donas al vi la povon ruli, modifi kaj kopii la programon kaj distribui, se vi volas, modifitajn kopiojn de la programo. La programo estas eldonita per travidebla procedo, kiu ebligas sendependan kontroladon de la duuma kodo kaj de ĝia respektiva fontkodo."
+
+    [[Languages.eo.about.row]]
+      [[Languages.eo.about.row.list]]
+        icon = "fa-link"
+        title = "Blokĉeno"
+        description = "La Litecoin-blokĉeno kapablas trakti pli da transakcioj sekunde ol sia kolego — Bitmono. grandan transakcian The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Pro pli ofta generado de blokoj, la reto subtenas pli da transakcioj sen bezono modifi la programon en la estonteco. <br />Sekve komercistoj ricevas pli rapidajn konfirmajn tempojn, kvankam ili ankoraŭ havas la eblon atendi pli da konfirmoj, kiam ili vendas pli kostajn aĵojn."
+
+      [[Languages.eo.about.row.list]]
+        icon = "fa-lock"
+        title = "Monuja ĉifrado"
+            description = "Monuja ĉifrado ebligas al vi protekti vian monujon, tiel ke vi povu vidi transakciojn kaj vian kontan bilancon, sed vi devos enigi vian pasvorton antaŭ ol elspezi litecoin-ojn. <br />Ĉi tio protektas kontraŭ virusoj, kiuj ŝtelas monujojn, kaj Trojaj ĉevaloj, kaj provizas sanan kontrolon antaŭ ol sendi pagojn."
+
+      [[Languages.eo.about.row.list]]
+        icon = "fa-money"
+        title = "Rekompenco pro minado"
+        description = "Ministoj nuntempe ricevas 6,25 novajn litecoin-ojn per bloko, tiu kvanto duoniĝas ĉirkaŭ ĉiun 4-an jaron (ĉiun 840 000 blokojn). <br />La Litecoin-reto estas do programita por produkti 84 milionojn da litecoin-oj, kio estas 4-foje pli da monaj unuoj ol Bitcoin."
+
+  # download section
+  [Languages.eo.download]
+    enable = true
+    gpg = "GPG-subskriboj"
+    download = "Elŝuti"
+    source = "Fontokodo"
+    releasenotes = "Eldonaj notoj"
+    upgradenotes = "Ĝisdatigaj notoj"
+
+    windows = "por Windows"
+    mac = "por Mac OS X"
+    linux = "por Linux"
+    android = "Nexus Wallet por Android"
+    electrum = "Electrum Litecoin"
+
+  # Contact section
+  [Languages.eo.contact]
+    enable = true
+    title = "Kontaktu nin"
+    subtitle  = 'Vi povas kontakti la disvolvadan teamon de la Litecoin-projekto per <a href="mailto:contact@litecoin.org">contact@litecoin.org</a>'
+    subscription = 'Aliĝu al la monata informilo de la Litecoin Foundation hodiaŭ. Ricevu ĝisdatigojn pri disvolviĝo, anoncoj kaj ekskluzivaj Litecoin-novaĵoj. <br /> Enigu vian retadreson en la suban formularon.'
+
+  # Footer section
+  [Languages.eo.footer]
+    enable = true
+    copyright = 'Copyright &copy; 2011-2026 Litecoin Project. Ĉiuj rajtoj rezervitaj.'
